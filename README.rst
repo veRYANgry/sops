@@ -28,7 +28,7 @@ For the adventurous, unstable features are available in the `develop` branch, wh
 
 .. code:: bash
 
-	$ go get -u go.mozilla.org/sops/cmd/sops
+	$ go get -u go.mozilla.org/v3/sops/cmd/sops
         $ cd $GOPATH/src/go.mozilla.org/sops/
         $ git checkout develop
         $ make install
