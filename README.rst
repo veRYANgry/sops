@@ -33,7 +33,7 @@ For the adventurous, unstable features are available in the `develop` branch, wh
         $ git checkout develop
         $ make install
 
-(requires Go >= 1.12)
+(requires Go >= 1.13)
 
 If you don't have Go installed, set it up with:
 
